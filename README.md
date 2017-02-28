@@ -1,7 +1,7 @@
 # Angular2VisualStudioTemplate
 Template for creating Angular 2 web app with Visual Studio
 
-Holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),for good starting Angular 2 client app with ASP.NET WebApi 2 backend.
+Holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html), for good starting Angular 2 client app with ASP.NET WebApi 2 backend.
 
 See official Angular.io [documentation](https://angular.io/docs/ts/latest/).
 
