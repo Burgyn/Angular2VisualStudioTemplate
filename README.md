@@ -15,4 +15,6 @@ See official Angular.io [documentation](https://angular.io/docs/ts/latest/).
 
 See cookbook [Visual Studio QuickStart](https://angular.io/docs/ts/latest/cookbook/visual-studio-2015.html).
 
+You can install from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Mino.Angular2VisualStudioTemplate)
+
 [Miňo Martiniak](https://twitter.com/MinoMartiniak)
